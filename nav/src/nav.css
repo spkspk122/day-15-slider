@@ -1,0 +1,49 @@
+.mailidandphone{
+    display: flex;
+    float: left;
+}
+.mailid:hover{
+    background-color:  gray
+}
+.phone{
+    color: white;
+    margin-right:50px;
+    margin-left: 50px;
+}
+.mailid{
+    color: white;
+    margin-right:15px;
+    margin-left: 15px;
+}
+.phone:hover{
+    background-color: gray;
+}
+.navi{
+    background-color: rgb(10, 105, 230);
+    padding:30px;
+    width: 100%;
+}
+.socialmedia{
+    display: flex;
+    float: right;
+    color:red;
+    
+    border-bottom: 130px;
+    
+}
+
+.printrest:hover{
+    background-color:red ;
+}
+.google:hover{
+    background-color:green;
+}
+.twitter:hover{
+    background-color: lightskyblue;
+}
+.facebook:hover{
+    background-color: darkblue;
+}
+.globe:hover{
+    background-color:yellow;
+}
